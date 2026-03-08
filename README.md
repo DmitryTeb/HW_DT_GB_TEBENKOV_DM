@@ -65,7 +65,7 @@
 
 ## Распределения признаков
 
-![Feature distributions](images/feature_histograms.png)
+![Feature distributions](feature_histograms.png)
 
 Большинство числовых признаков имеют правостороннюю асимметрию распределения и длинные хвосты, что указывает на наличие выбросов.
 
@@ -73,7 +73,7 @@
 
 ## Корреляционная матрица
 
-![Correlation matrix](images/correlation_matrix.png)
+![Correlation matrix](correlation_matrix.png)
 
 Корреляционная матрица позволяет оценить взаимосвязи между признаками. Сильной мультиколлинеарности между признаками не наблюдается.
 
@@ -238,7 +238,7 @@ F1-score = 0.541
 
 # Важность признаков
 
-![Feature importance](images/feature_importance.png)
+![Feature importance](feature_importance.png)
 
 Наиболее значимые признаки:
 
