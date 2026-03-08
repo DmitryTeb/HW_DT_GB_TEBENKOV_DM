@@ -57,7 +57,7 @@
 
 ## Распределение целевой переменной
 
-![Target distribution](images/target_distribution.png)
+![Target distribution](target_distribution.png)
 
 График показывает дисбаланс классов: доля клиентов без дефолта значительно превышает долю клиентов с просрочкой.
 
